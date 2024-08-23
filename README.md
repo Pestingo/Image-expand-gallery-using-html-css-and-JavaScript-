@@ -71,4 +71,3 @@ Feel free to fork this repository, submit pull requests, or reach out with any f
 - The live demo link is now included as [https://image-expand-gallery-using-html-css-and-java-script.vercel.app/](https://image-expand-gallery-using-html-css-and-java-script.vercel.app/).
 - If you want, you can still update the screenshot section with a relevant image of your project.
   
-This README file should now be ready for your GitHub repository, providing all the necessary information for anyone who visits your project.
